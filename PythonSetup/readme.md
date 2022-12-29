@@ -42,8 +42,4 @@ Notebook: 将程序分成代码Code和注释Markdown, 每个区块左边按小�
 ```bash
 pip install scikit-learn scipy matplotlib
 ```
-[Tensorflow官网教程](https://www.tensorflow.org/tutorials/quickstart/beginner)  
-```bash
-pip install tensorflow
-```
 或者看[本notebook](https://github.com/H3CO3/homeworks/blob/main/PythonSetup/Notebook.ipynb)

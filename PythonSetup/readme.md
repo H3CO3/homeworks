@@ -1,12 +1,12 @@
 # ## Install 下载Python和IDE 
 Windows直接exe一路点下一步安装, 注意：永远不建议使用最新版本    
-本文件夹包含Python3.9, 或者[官网下载](https://www.python.org/downloads/)  
+[windows64-Python3.9-exe][https://www.python.org/ftp/python/3.9.12/python-3.9.12-amd64.exe], 或者[官网下载](https://www.python.org/downloads/)  
 附cmd命令行检测安装成功的方法: 
 ```bash
 python --version
 ```
 如果不想用命令行跑的话永远建议整个VS Code  
-本文件夹包含exe，或者[官网下载](https://code.visualstudio.com/)  
+[官网下载](https://code.visualstudio.com/)  
 打开.py文件右下角会自动弹出是否下载python扩展包的提示，或者左边工具栏打开扩展包目录(ctrl+shift+x)，搜索python下载扩展包(就叫Python，什么Python Extension Pack, Python Environment暂时不用管)  
 
 ## Library 库

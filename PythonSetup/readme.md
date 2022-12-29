@@ -35,6 +35,7 @@ pip install notebook
 ```bash
 jupyter notebook (your file)
 ```
+Notebook: 将程序分成代码Code和注释Markdown, 每个区块左边按小箭头运行
 
 ## Machine Learning Beginning 机器学习起步
 [sklearn官网api (推荐)](https://scikit-learn.org/stable/modules/classes.html)

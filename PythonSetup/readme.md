@@ -1,4 +1,6 @@
-# ## Install 下载Python和IDE 
+# Python From 0 to 0.1
+
+## Install 下载Python和IDE 
 Windows直接exe一路点下一步安装, 注意：永远不建议使用最新版本    
 [windows64-Python3.9-exe][https://www.python.org/ftp/python/3.9.12/python-3.9.12-amd64.exe], 或者[官网下载](https://www.python.org/downloads/)  
 附cmd命令行检测安装成功的方法: 
@@ -43,5 +45,4 @@ pip install scikit-learn scipy matplotlib
 ```bash
 pip install tensorflow
 ```
-或者看本notebook
-```
+或者看[本notebook](https://github.com/H3CO3/homeworks/blob/main/PythonSetup/Notebook.ipynb)
